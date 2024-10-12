@@ -1,1 +1,2 @@
-米游社地图文件
+米游社地图文件。
+来源Wuyi无疑的Fastapi_Genshin_Map开源项目。
